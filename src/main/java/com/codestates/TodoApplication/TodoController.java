@@ -1,2 +1,4 @@
-package com.codestates.TodoApplication;public class TodoController {
+package com.codestates.TodoApplication;
+
+public class TodoController {
 }
